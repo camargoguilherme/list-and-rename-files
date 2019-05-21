@@ -1,0 +1,15 @@
+{
+  "name": "list-and-rename-files",
+  "version": "1.0.0",
+  "description": "Lista e Renomeia arquivos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Camargo",
+  "license": "ISC",
+  "dependencies": {
+    "readdirp": "^3.0.1"
+  }
+}
